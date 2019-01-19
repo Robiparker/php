@@ -1,5 +1,6 @@
 <? php
 
-echo "olá mundo é nois ";
+echo "olá mundo ";
+echo "olá Parker";
 
 ?>
